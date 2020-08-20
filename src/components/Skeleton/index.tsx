@@ -24,8 +24,8 @@ export default styled.div`
     background-image: linear-gradient(
       -90deg,
       #FFFFFF 0%,
-      #E7EDF1 50%
-      #FFFFFF 100%,
+      #F8F8F8 50%,
+      #FFFFFF 100%
     );
   }
 `;
