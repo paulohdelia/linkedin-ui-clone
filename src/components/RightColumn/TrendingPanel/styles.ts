@@ -1,6 +1,12 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+  &:last-child {
+    position: sticky;
+    top: 64px;
+    margin-top: 8px;
+  }
+
   > div {
     padding: 12px;
 
