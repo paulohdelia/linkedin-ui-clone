@@ -22,6 +22,7 @@ export const Container = styled.div`
         width: 72px;
         border-radius: 50%;
         margin: -36px 0 10px;
+        flex-shrink: 0;
       }
 
       .row-skeleton {
