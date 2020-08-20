@@ -25,7 +25,7 @@ const Layout: React.FC = () => {
       <DesktopHeader />
 
       <span>
-        <AdBanner />
+        {!isLoading && (<AdBanner />)}
       </span>
 
       <main>
