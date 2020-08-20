@@ -4,8 +4,12 @@ export const Container = styled.div`
   height: 100%;
   width: 100%;
 
+  > span {
+    margin-top: 48px;
+    display: flex;
+  }
 
-  .left-column, .right-column {
+  .left-column, .right-column, .ad-banner {
     display: none;
   }
 
@@ -16,7 +20,12 @@ export const Container = styled.div`
       justify-content: center;
     }
 
-    .left-column, .right-column {
+    > span {
+      margin-top: 58px;
+      padding: 8px 0;
+    }
+
+    .left-column, .right-column, .ad-banner {
       display: unset;
     }
 
