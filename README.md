@@ -11,7 +11,14 @@
 </p>
 
 > Você pode acessar o site por aqui https://linkedin-ui-clone-paulohdelia.netlify.app/
- 
+
+## :hammer: Techs
+
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/paulohdelia/)](https://github.com/paulohdelia/)
+[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/paulohdelia/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/paulohdelia/)](https://github.com/paulohdelia/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/paulohdelia/)](https://github.com/paulohdelia/)
+
 ## :fire: Preview
 
 ### Skeleton Loading Animation
